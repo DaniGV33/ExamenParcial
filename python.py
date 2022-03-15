@@ -7,6 +7,7 @@ print(n1,'+',n2,'= si')
 print()
 print('No, es broma, la respuesta es',suma)
 print()
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
 
 #Coded by:
 #Daniel Augusto García Villatoro - 1532522
