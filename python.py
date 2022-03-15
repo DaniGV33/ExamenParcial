@@ -8,5 +8,5 @@ print()
 print('No, es broma, la respuesta es',suma)
 print()
 
-print('Coded by:')
-print('Daniel Augusto García Villatoro - 1532522')
+#Coded by:
+#Daniel Augusto García Villatoro - 1532522
