@@ -8,6 +8,7 @@ print()
 print('No, es broma, la respuesta es',suma)
 print()
 print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
+print("\nGracias ingeniero")
 
-#Coded by:
-#Daniel Augusto García Villatoro - 1532522
+print('Coded by:')
+print('Daniel Augusto García Villatoro - 1532522')
